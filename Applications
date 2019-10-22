@@ -1,0 +1,10 @@
+ #Finding N’th Fibonacci number.
+ ** F(i-2,i-1)*M = F(i-1,i).**
+ 
+ 
+ #Finding N’th element of linear recurrent sequence
+ 
+ #Finding the sum of Fibonacci numbers up to N
+ 
+ #Solving dynamic programming problems with fixed linear transitions
+ 
